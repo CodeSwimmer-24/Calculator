@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(139, 139, 139);
+    margin-left:500px;
+    margin-top: 100px;
+}
+.cal{
+    border-width: 0px;
+    border:2px solid black;
+    width:240px;
+    height:410px;
+    background-color: black;
+    border-radius: 20px;
+    
+}
+#screen{
+    height:80px;
+    width:238px;
+    background-color:black;
+    border-width:0px;
+    border-radius: 20px;
+    color:rgb(255, 254, 254);
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: right;
+    text-align: bottom;
+    
+}
+#btn{
+    margin-top: 10px;
+    font-size: 25px;
+    padding-left:5px;
+    padding-top: 2px;
+    margin-left:4px;
+    height:50px;
+    width: 50px;
+    background-color:#d35400;
+    border: 0px;
+    border-radius: 50px;
+}
+#btn1{
+    color: white;
+    font-weight:lighter;
+    margin-top: 10px;
+    font-size: 20px;
+    padding-left:5px;
+    padding-top: 2px;
+    margin-left:4px;
+    height:50px;
+    width: 50px;
+    background-color: rgb(29, 29, 29);
+    border: 0px;
+    border-radius: 50px;
+}
